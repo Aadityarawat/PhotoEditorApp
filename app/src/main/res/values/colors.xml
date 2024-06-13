@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blackgrey">#11182E</color>
+    <color name="grey">#869398</color>
+    <color name="blue">#2BB16C</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="orange">#FF6038</color>
+    <color name="lightgreen">#6FCF97</color>
+    <color name="lightorange">#FF9452</color>
+    <color name="lightred">#FD7E7E</color>
+    <color name="green">#00943E</color>
+    <color name="orangedark">#FF3C00</color>
+    <color name="red">#FF0000</color>
+    <color name="lightblue">#82B4FF</color>
+    <color name="lightpink">#FF82A7</color>
+
+        <color name="blue_color_picker">#0066FF</color>
+        <color name="brown_color_picker">#AF593E</color>
+        <color name="green_color_picker">#01A368</color>
+        <color name="orange_color_picker">#FF861F</color>
+        <color name="red_color_picker">#ED0A3F</color>
+        <color name="red_orange_color_picker">#FF3F34</color>
+        <color name="sky_blue_color_picker">#76D7EA</color>
+        <color name="violet_color_picker">#8359A3</color>
+        <color name="yellow_color_picker">#FBE870</color>
+        <color name="yellow_green_color_picker">#C5E17A</color>
+        <color name="tool_bg">#151414</color>
+        <color name="semi_black_transparent">#99000000</color>
+
+
+</resources>
